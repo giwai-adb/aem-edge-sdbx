@@ -1,5 +1,8 @@
 {
   "mappings": [
     "/content/aem-edge-sdbx/:/"
+  ],
+  "includes": [
+    "/content/aem-edge-sdbx/"
   ]
 }
